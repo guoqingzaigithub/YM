@@ -1,0 +1,87 @@
+[ 2016-12-14T09:13:04+08:00 ] ::1 /YM/muke/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001327s ]
+
+[ 2016-12-14T09:13:20+08:00 ] 127.0.0.1 /YM/muke/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-12-14T14:47:17+08:00 ] ::1 /YM/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+
+[ 2016-12-14T16:40:24+08:00 ] 127.0.0.1 /YM/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2016-12-14T17:24:39+08:00 ] 127.0.0.1 /YM/index.php?c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-12-14T19:50:06+08:00 ] 127.0.0.1 /YM/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2016-12-14T19:51:23+08:00 ] 127.0.0.1 /YM/?c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-12-14T19:51:27+08:00 ] 127.0.0.1 /YM/?=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-12-14T19:51:34+08:00 ] 127.0.0.1 /YM/?a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 非法操作:login
+
+[ 2016-12-14T19:54:10+08:00 ] 127.0.0.1 /YM/admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-12-14T19:54:23+08:00 ] 127.0.0.1 /YM/admin.php?c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-12-14T19:54:28+08:00 ] 127.0.0.1 /YM/admin.php?a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 非法操作:login
+
+[ 2016-12-14T19:57:25+08:00 ] 127.0.0.1 /YM/admin.php?c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-12-14T19:57:59+08:00 ] 127.0.0.1 /YM/admin.php?c=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载控制器:Login
+
+[ 2016-12-14T20:07:59+08:00 ] 127.0.0.1 /YM/index.php?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+
+[ 2016-12-14T20:51:14+08:00 ] ::1 /YM/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
